@@ -1,0 +1,4 @@
+include ':zxing-demo-1'
+include ':zxing-demo-2'
+include ':zxing-demo-3'
+include ':zxing-demo-4'
